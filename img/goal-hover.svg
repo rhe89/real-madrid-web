@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="65.1 37.5 900 855.4" enable-background="new 65.1 37.5 900 855.4" xml:space="preserve">
+<g id="Layer_2">
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="68.7" y1="816.1" x2="156.8" y2="839.3"/>
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="156.8" y1="839.3" x2="310.2" y2="879.5"/>
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="310.2" y1="879.5" x2="347.4" y2="889.3"/>
+</g>
+<g id="Layer_2_copy">
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="884.4" y1="69.9" x2="899.6" y2="159.8"/>
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="899.6" y1="159.8" x2="926.2" y2="316.2"/>
+	<line fill="none" stroke="#424242" stroke-width="10" stroke-miterlimit="10" x1="926.2" y1="316.2" x2="932.6" y2="354"/>
+</g>
+<g id="Layer_1">
+	<g id="GOAL">
+		<path id="ARC" fill="#FFFFFF" stroke="#424242" stroke-width="288" stroke-miterlimit="10" d="M207.9,852.8
+			C294.6,523.2,568.3,269.5,908.8,212"/>
+		<path id="SVGID_x5F_1_x5F_" fill="none" d="M248,900.4c84.1-319.8,371-585.1,700.9-640.8"/>
+		<text>		<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="23.12%">
+<tspan  fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" font-family="'Helvetica-Light'" font-size="200">GOAL</tspan>		</textPath>
+</text>
+	</g>
+	<g id="GOAL_1_" display="none">
+		<path id="ARC_7_" display="inline" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="278" stroke-miterlimit="10" d="M207.9,852.8
+			C294.6,523.2,568.3,269.5,908.8,212"/>
+		<path id="SVGID_x5F_2_x5F_" display="inline" fill="none" d="M258,908.4c84.1-319.8,371-585.1,700.9-640.8"/>
+		<text display="inline">		<textPath  xlink:href="#SVGID_x5F_2_x5F_" startOffset="19.793%">
+<tspan  stroke="#000000" stroke-miterlimit="10" font-family="'Helvetica-Light'" font-size="231">GOAL</tspan>		</textPath>
+</text>
+	</g>
+	<g id="CARD" display="none">
+		<path id="ARC_5_" display="inline" fill="#777575" stroke="#005543" stroke-width="288" stroke-miterlimit="10" d="M121.3,211.9
+			c340.5,57.5,614.2,311.2,700.9,640.8"/>
+		<path id="SVGID_x5F_3_x5F_" display="inline" fill="none" d="M66.1,267.1C406.6,324.6,680.3,578.3,767,907.9"/>
+		<text display="inline">		<textPath  xlink:href="#SVGID_x5F_3_x5F_" startOffset="23.721%">
+<tspan  fill="#FFFFFF" font-family="'Helvetica-Light'" font-size="200">CARD</tspan>		</textPath>
+</text>
+	</g>
+	<g id="CARD-HOVER" display="none">
+		<path id="ARC_4_" display="inline" fill="#005543" stroke="#FFFFFF" stroke-width="288" stroke-miterlimit="10" d="M121.3,211.9
+			c340.5,57.5,614.2,311.2,700.9,640.8"/>
+		<path id="SVGID_x5F_4_x5F_" display="inline" fill="none" d="M57.1,275.1C397.6,332.6,671.3,586.3,758,915.9"/>
+		<text display="inline">		<textPath  xlink:href="#SVGID_x5F_4_x5F_" startOffset="21.233%">
+<tspan  fill="#090000" font-family="'Helvetica-Light'" font-size="231">CARD</tspan>		</textPath>
+</text>
+	</g>
+</g>
+</svg>

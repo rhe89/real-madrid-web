@@ -1,0 +1,44 @@
+
+#pitch #lineup-table,
+#pitch #substitutes-table {
+    background: rgb(48, 94, 55);
+}
+
+#pitch table {
+    width: 100%;
+    text-align: center;
+}
+
+#pitch #lineup-table {
+    margin: 0;
+    padding: 0;
+}
+
+#pitch #substitutes-table {
+    margin: 0.5em 0 0 0;
+    padding: 5px;
+}
+
+#pitch table tr td {
+    height: 50px;
+    width: 50px;
+    color: white;
+}
+
+#pitch table tr .space {
+    height: 55px;
+    width: 55px;
+}
+
+
+#pitch table .player-img{
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    z-index: 30;
+    border-radius: 50%;
+}
+
+#match-info {
+    text-align: center;
+}

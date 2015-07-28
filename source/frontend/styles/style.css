@@ -1,0 +1,45 @@
+.divider {
+    width: 100%;
+    border-bottom: 1px solid #999999;
+}
+
+.font-awesome {
+    font-family: 'FontAwesome';
+}
+
+#subbed-off-icon, #red-card-icon {
+    color: red;
+}
+
+#yellow-card-icon {
+    color: yellow;
+}
+
+#subbed-on-icon {
+    color: green;
+}
+
+.center-td-content {
+    text-align: center;
+}
+
+.panel-heading h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.panel-heading h2 {
+    font-size: 1.7em;
+    margin: 0;
+}
+
+.player #player-info {
+    position: relative;
+}
+.player #player-img {
+    position: absolute;
+    height: 650px;
+    width: 550px;
+    right: 40px;
+    top: 150px;
+}
