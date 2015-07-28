@@ -1,8 +1,4 @@
-<?php
-
-require $web_root . "/../backend/data-structure/main.php";
-
-?>
+<?php require $web_root . "/../backend/data-structure/main.php";?>
 
 <!DOCTYPE html>
 <html lang="en-US">

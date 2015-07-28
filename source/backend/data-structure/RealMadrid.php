@@ -1,13 +1,4 @@
 <?php
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
-
-/**
- * Created by IntelliJ IDEA.
- * User: Roar
- * Date: 31.01.15
- * Time: 12.08
- */
 
 class RealMadrid
 {
@@ -54,11 +45,6 @@ class RealMadrid
                 $this->playerStats = new PlayerStatsLoader($this->season, $matches, $this->firstTeam, $this->castilla);
             }
         }
-
-
-        //$this->nationContainer = new NationContainer($season, $this->firstTeam);
-
-        //$this->positionContainer = self::loadPositions();
     }
 
     public function getSeason() {

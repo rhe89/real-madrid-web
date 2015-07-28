@@ -31,7 +31,7 @@ if ($realMadrid != null && isset($_GET['season']))  {
         }
     } else {
         echo "<script>alert('Invalid season')</script>";
-        echo "<script>document.location = 'http://localhost:8888/realmadrid/index.php?season=2015_2016'</script>";
+        echo "<script>document.location = 'http://www.roarher.no/realmadrid/index.php?season=2015_2016'</script>";
     }
 }  else if ($realMadrid == null) {
     $realMadrid = new RealMadrid('2014_2015', $whatToLoad);

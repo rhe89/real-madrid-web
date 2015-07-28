@@ -4,10 +4,7 @@ $web_root = $_SERVER['DOCUMENT_ROOT'];
 
 $whatToLoad = 'matches, oppositions';
 
-require $web_root . "/realmadrid/head.php";
-
-
-?>
+require $web_root . "/realmadrid/head.php";?>
 
 <body id="wrapper">
 
