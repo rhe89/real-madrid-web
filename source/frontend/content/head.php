@@ -10,16 +10,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Real Madrid Statistics - Season 2014/2015</title>
     <link rel="stylesheet" href="/realmadrid/styles/style.css">
-    <?php
-    if ($content != null) { ?>
+    <?php if ($content != null): ?>
         <link rel="stylesheet" href="/realmadrid/styles/<?php echo $content ?>.css">
-    <?php
-    } ?>
+    <?php endif; ?>
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/font-awesome.min.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/magnific-popup.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap.min.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap-theme.min.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/sidebar.css">
-
-
 </head>

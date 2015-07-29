@@ -12,7 +12,7 @@ require $web_root . "/realmadrid/head.php";?>
 $selectType = "tournament";
 require $web_root . "/realmadrid/sideba.php";?>
 
-<main id="page-content-wrapper" class="container">
+<main id="page-content-wrapper" class="container col-lg-12">
     <?php
     $tournamentName = "none";
     $getTotal = true;

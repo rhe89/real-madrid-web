@@ -1,5 +1,5 @@
 
-<section class="tournament-stats container <?php echo $hidden?>" id="<?php echo $id?>">
+<section class="tournament-stats container col-lg-12 <?php echo $hidden?>" id="<?php echo $id?>">
 
     <div class="col-lg-6">
         <section class="panel panel-primary ">
