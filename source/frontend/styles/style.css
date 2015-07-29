@@ -1,3 +1,19 @@
+body {
+    position: relative;
+}
+
+@media (max-width: 767px) {
+    .no-mobile-col {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .no-mobile-col {
+        display: none;
+    }
+}
+
 .divider {
     width: 100%;
     border-bottom: 1px solid #999999;
