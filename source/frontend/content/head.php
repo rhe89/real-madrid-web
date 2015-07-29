@@ -17,8 +17,8 @@
     } ?>
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/font-awesome.min.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/magnific-popup.css">
-    <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap.css">
-    <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap-theme.css">
+    <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap.min.css">
+    <link rel="stylesheet" href="/realmadrid/styles/external-libraries/bootstrap-theme.min.css">
     <link rel="stylesheet" href="/realmadrid/styles/external-libraries/sidebar.css">
 
 
